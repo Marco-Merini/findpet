@@ -112,3 +112,13 @@ Esta documentação fornece uma visão abrangente do projeto para o aplicativo d
 
 
 # Algumas telas do projeto
+
+FindPet
+Bem-Vindo(a)
+Com mais animais de estimação adotáveis ​​do que nunca, temos uma necessidade urgente de adotantes para esses animaizinhos. Procure por Pets!
+Digite seu email
+Digite sua senha
+Login
+Esqueci a senha
+Nao tem nenhuma conta?
+ Crie uma
