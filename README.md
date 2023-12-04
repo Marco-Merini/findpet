@@ -112,5 +112,3 @@ Esta documentação fornece uma visão abrangente do projeto para o aplicativo d
 
 
 # Algumas telas do projeto
-
-![Tela de Login](downloads/image1.png)
