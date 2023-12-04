@@ -1,6 +1,4 @@
-# PetAdopt App
-
-## Why?
+# Findpet
 
 ### Justificativa do Projeto:
 
