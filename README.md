@@ -109,6 +109,3 @@ Acreditamos que este aplicativo pode ter um impacto substancial, tanto na facili
 - Julio Marcon
 
 Esta documentação fornece uma visão abrangente do projeto para o aplicativo de encontrar/adotar cachorros, desde sua justificativa até a estimativa de custos. Ela serve como um guia para o planejamento, execução e monitoramento do projeto, garantindo que os objetivos SMART sejam alcançados de maneira eficaz.
-
-
-# Algumas telas do projeto
